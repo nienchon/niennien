@@ -1,0 +1,25 @@
+@charset "UTF-8";
+* {
+  font-family: 'Quicksand', 'Noto Sans', '微軟正黑體';
+  padding: 0px;
+  margin: 0px; }
+  * nav a.logo {
+    height: 10px;
+    width: 150px;
+    padding-bottom: 27px; }
+
+.bottomicon {
+  margin-left: 0px; }
+
+section.wow.fadeIn.half-section {
+  padding-top: 40px; }
+  section.wow.fadeIn.half-section a.btn {
+    border-radius: 10px; }
+
+section.mission {
+  padding-top: 170px;
+  padding-bottom: 170px; }
+
+footer.footer-strip {
+  letter-spacing: 2px;
+  padding: 30px; }
